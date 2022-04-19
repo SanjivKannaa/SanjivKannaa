@@ -4,7 +4,6 @@ Welcome to my humble Digital World..
 
 ## :computer: Technologies I Love
 * python
-* competetive programming
 * blockchain and web3.0
 * back end webdev
 
@@ -23,7 +22,7 @@ Welcome to my humble Digital World..
  
  ## Who am I?
  ```python
- class WhoAmI:
+class WhoAmI:
  	user = 'sanjiv kannaa jeganathan'
 	education = "NIT trichy"
 	hobbies = [
@@ -39,7 +38,7 @@ Welcome to my humble Digital World..
 ## Currently learning
  	1.web dev
     2.linux
-    3.cyber
+    3.networking structures
  
 ## Other Stuff
   Love to collaborate for python projects and competetive programming and also make some friends 😊
