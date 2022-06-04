@@ -5,7 +5,7 @@ Welcome to my humble Digital World..
 ## :computer: Technologies I Love
 * python
 * blockchain and web3.0
-* back end webdev
+* Web development
 
 
 ## Programming Languages
