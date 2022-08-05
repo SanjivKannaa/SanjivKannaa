@@ -22,7 +22,9 @@ Welcome to my humble Digital World..
  
  ## Who am I?
  ```python
-class WhoAmI:\n\tuser = 'sanjiv kannaa jeganathan'\n\teducation = "NIT trichy"
+class WhoAmI:
+	 user = 'sanjiv kannaa jeganathan'
+	education = "NIT trichy"
 	hobbies = [
 				'coding',
 				'problem solving',
@@ -37,6 +39,8 @@ class WhoAmI:\n\tuser = 'sanjiv kannaa jeganathan'\n\teducation = "NIT trichy"
  	1.web dev
     2.linux
     3.networking structures
+    4.docker
+    
  
 ## Other Stuff
   Love to collaborate for python projects and competetive programming and also make some friends 😊
