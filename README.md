@@ -26,9 +26,10 @@ class WhoAmI:
 	 user = 'sanjiv kannaa jeganathan'
 	education = "NIT trichy"
 	hobbies = [
+				'cycling',
 				'coding',
 				'problem solving',
-				'cycling'
+				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
@@ -45,5 +46,9 @@ class WhoAmI:
 ## Other Stuff
   Love to collaborate for python projects and competetive programming and also make some friends 😊
 
+
+
+
+![SanjivKannaa's github stats](https://github-readme-stats.vercel.app/api?username=SanjivKannaa&show_icons=true&hide=[%22issues%22])
  
  -------
