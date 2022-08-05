@@ -22,9 +22,7 @@ Welcome to my humble Digital World..
  
  ## Who am I?
  ```python
-class WhoAmI:
- user = 'sanjiv kannaa jeganathan'
-	education = "NIT trichy"
+class WhoAmI:\n\tuser = 'sanjiv kannaa jeganathan'\n\teducation = "NIT trichy"
 	hobbies = [
 				'coding',
 				'problem solving',
