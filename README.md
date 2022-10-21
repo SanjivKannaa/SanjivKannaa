@@ -2,15 +2,15 @@
 
 Welcome to my Digital World..
 
-Blockchain | DevOps
+Ethereum Blockchain <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/ethereum.svg' width='30'/>  | DevOps  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/devops.svg' width='30'/> | Linux  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/linux.svg' width='30'/> 
 - Sophomone at NIT Trichy
 - Love to learn new technologies
 
 ## Programming Languages
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+ <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/c-original.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/cpp.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/js.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/java.svg' width='30'/> 
  
  ## Tools
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+ <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/flask.png' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/sql.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/git.svg' width='30'/>  <img src = 'https://github.com/SanjivKannaa/SanjivKannaa/blob/master/images/linux.svg' width='30'/> 
 
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivkannaajeganathan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjiv_kannaa_jeganathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-kannaa-jeganathan-532b16227/) 
