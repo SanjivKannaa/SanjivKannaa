@@ -15,7 +15,7 @@ Welcome to my humble Digital World..
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
 ## Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santhosh_m_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-m-041689217) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivkannaajeganathan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjiv_kannaa_jeganathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-kannaa-jeganathan-532b16227/) 
  
  ## Who am I?
  ```python
@@ -34,22 +34,22 @@ class WhoAmI:
  ```
  
 ## Currently learning
- 	1.web dev
+ 	1.backend development
     2.linux
     3.networking structures
     4.docker
+    5.solidity smart contracts
     
  
-## Other Stuff
-  Love to collaborate for python projects and competetive programming and also make some friends 😊
 
 
 
 
-![SanjivKannaa's github stats](https://github-readme-stats.vercel.app/api?username=SanjivKannaa&show_icons=true&hide=[%22issues%22])
- 
+
+
  
 ![](https://github-readme-stats.vercel.app/api?username=SanjivKannaa&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjivKannaa&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  -------
