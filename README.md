@@ -2,7 +2,7 @@
 
 Welcome to my Digital World..
 
-Ethereum Blockchain <img src = './images/ethereum.svg' width='30'/>  | DevOps  <img src = './images/devops.svg' width='30'/> | Linux  <img src = './images/linux.svg' width='30'/> 
+Blockchain <img src = './images/ethereum2.svg' width='30'/>  | DevOps  <img src = './images/devops.svg' width='30'/> | Linux  <img src = './images/linux2.svg' width='30'/> 
 - Sophomone at NIT Trichy
 - Love to learn new technologies
 
