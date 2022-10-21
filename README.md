@@ -1,12 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&&width=600&height=100&lines=Hello+World+!!!;I'm+Sanjiv+Kannaa+Jeganathan)](https://git.io/typing-svg)<br/>
 
-Welcome to my humble Digital World..
+Welcome to my Digital World..
 
-## :computer: Technologies I Love
-* python
-* blockchain and web3.0
-* Web development
-
+##Blockchain | DevOps
+- Sophomone at NIT Trichy
+- Love to learn new technologies
 
 ## Programming Languages
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
