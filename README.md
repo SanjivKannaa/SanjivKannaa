@@ -47,7 +47,7 @@ Education :- B.Tech, NIT Trichy
 
 Languages :- Python, C, C++, HTML, CSS, JS, java
 
-Skills :- git, linux, flask, django, SQL, docker, apache
+Skills :- linux, flask, django, SQL, docker, apache
 
 $
 ```
