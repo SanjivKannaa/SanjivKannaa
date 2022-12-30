@@ -43,7 +43,7 @@ Age :- 19
 
 City :- 'Trichy'
 
-Education :- 'B.Tech, NIT Trichy'
+Education :- 'B.Tech CSE @ NIT Trichy'
 
 Languages :- ['Python', 'C', 'C++', 'HTML', 'CSS', 'JS', 'java']
 
