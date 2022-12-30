@@ -37,13 +37,13 @@ class WhoAmI:
  Password: 
  
  $ whoami
- Name :- Sanjiv Kannaa J
+ Name :- 'Sanjiv Kannaa J'
 
 Age :- 19
 
-City :- Trichy
+City :- 'Trichy'
 
-Education :- B.Tech, NIT Trichy
+Education :- 'B.Tech, NIT Trichy'
 
 Languages :- ['Python', 'C', 'C++', 'HTML', 'CSS', 'JS', 'java']
 
