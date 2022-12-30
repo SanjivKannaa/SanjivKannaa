@@ -12,8 +12,7 @@ Blockchain | DevOps | Linux
  ## Tools
  <img src = './images/django.svg' height='40'/> <img src = './images/flask.png' width='30'/>  <img src = './images/sql.svg' width='30'/>  <img src = './images/git.svg' width='30'/>  <img src = './images/linux2.svg' width='30'/>  <img src = './images/ethereum.svg' width='30'/>
  -->
-## Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivkannaajeganathan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjiv_kannaa_jeganathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-kannaa-jeganathan-532b16227/) 
+
 <!--  
  ## Who am I?
  ```python
@@ -31,6 +30,8 @@ class WhoAmI:
 		return 'Trichy, TN, India'
  ``` -->
  
+ 
+  ## Who am I?
  ```bash
  $ sudo root
  Password: 
@@ -51,7 +52,8 @@ Skills :- git, linux, flask, django, SQL, docker, apache
 $
 ```
  
- 
+## Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivkannaajeganathan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjiv_kannaa_jeganathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-kannaa-jeganathan-532b16227/)  
  
 ## Currently learning
  	1.backend development
