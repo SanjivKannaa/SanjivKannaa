@@ -31,6 +31,18 @@ class WhoAmI:
 		return 'Trichy, TN, India'
  ```
  
+ ```bash
+ $ sudo root
+ Password: 
+ 
+ $ whoami
+ Name :- Sanjiv Kannaa J
+
+Age :- 19
+ ```
+ 
+ 
+ 
 ## Currently learning
  	1.backend development
     2.linux
