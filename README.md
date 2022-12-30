@@ -45,9 +45,9 @@ City :- Trichy
 
 Education :- B.Tech, NIT Trichy
 
-Languages :- [Python, C, C++, HTML, CSS, JS, java]
+Languages :- ['Python', 'C', 'C++', 'HTML', 'CSS', 'JS', 'java']
 
-Skills :- [linux, flask, django, SQL, docker, apache]
+Skills :- ['linux', 'flask', 'django', 'SQL', 'docker', 'apache']
 
 hobbies = [ 'cycling', 'coding', 'problem solving', 'Being up all Night chasing that ONE BUG...']
 			
