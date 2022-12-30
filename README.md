@@ -39,6 +39,14 @@ class WhoAmI:
  Name :- Sanjiv Kannaa J
 
 Age :- 19
+
+City :- Trichy
+
+Education :- B.Tech, NIT Trichy
+
+Languages :- Python, C, C++, HTML, CSS, JS, java
+
+Skills :- git, linux, flask, django, SQL, docker, apache
  ```
  
  
