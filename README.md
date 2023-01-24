@@ -2,7 +2,7 @@
  -->
 Welcome to my Digital World..
 
-Blockchain | DevOps | Linux
+Blockchain | CyberSec | Linux
 - Sophomone at NIT Trichy
 - Love to learn new technologies
 <!-- 
