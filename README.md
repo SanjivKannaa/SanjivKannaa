@@ -33,7 +33,7 @@ class WhoAmI:
  
   ## Who am I?
  ```bash
- $ sudo su
+ $ sudo su root
  Password: 
  
  $ whoami
