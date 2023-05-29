@@ -45,31 +45,24 @@ City :- 'Trichy'
 
 Education :- 'B.Tech CSE @ NIT Trichy'
 
-Languages :- ['Python', 'C', 'C++', 'HTML', 'CSS', 'JS', 'java']
+Languages :- ['Python', 'C', 'C++', 'HTML', 'CSS', 'JS']
 
-Skills :- ['linux', 'flask', 'django', 'SQL', 'docker', 'apache']
+Tools_and_frameworks :- ['linux', 'git', 'flask', 'django', 'node', 'mySQL', 'mongoDB', 'docker', 'apache', 'nginx']
 
 hobbies = [ 'cycling', 'coding', 'problem solving', 'Being up all Night chasing that ONE BUG...']
 			
 $
 ```
-## Languages and Tools
-<p align="left">  </p>
+
 
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjivkannaajeganathan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjiv_kannaa_jeganathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjiv-kannaa-jeganathan-532b16227/) [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://sanjivkannaa.hashnode.dev/) 
  
 ## Currently learning
- 	1.backend development
+ 	1.peneteration testing
     2.linux
-    3.networking structures
-    4.docker
-    5.solidity smart contracts
+    3.network architecture
     
- 
-
-
-
 
 <!-- 
 
