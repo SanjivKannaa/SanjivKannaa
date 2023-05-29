@@ -53,7 +53,7 @@ hobbies = [ 'cycling', 'coding', 'problem solving', 'Being up all Night chasing 
 			
 $
 ```
-## Languages and Tools:
+## Languages and Tools
 <p align="left">  </p>
 
 ## Social Media
