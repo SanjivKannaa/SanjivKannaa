@@ -2,8 +2,8 @@
  -->
 Welcome to my Digital World..
 
-Blockchain | CyberSec | Linux
-- Sophomone at NIT Trichy
+DevOps | CyberSec | Linux
+- final-year srudent at NIT Trichy
 - Love to learn new technologies
 <!-- 
 ## Programming Languages
