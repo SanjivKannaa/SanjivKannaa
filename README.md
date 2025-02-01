@@ -3,7 +3,7 @@
 Welcome to my Digital World..
 
 DevOps | CyberSec | Linux
-- final-year srudent at NIT Trichy
+- final-year student at NIT Trichy
 - Love to learn new technologies
 <!-- 
 ## Programming Languages
