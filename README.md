@@ -1,73 +1,59 @@
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&&width=600&height=100&lines=Hello+World+!!!;I'm+Sanjiv+Kannaa+Jeganathan)](https://git.io/typing-svg)<br/>
- -->
-Welcome to my Digital World..
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&width=600&height=100&lines=Hey+there+👋;I'm+Sanjiv+Kannaa+Jeganathan;DevOps+%7C+Backend+%7C+Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
 
-DevOps | Distributed Systems
-- final-year student at NIT Trichy
-- Love to learn new technologies
-<!-- 
-## Programming Languages
- <img src = './images/python2.png' height='30'/>  <img src = './images/c-original.svg' width='30'/>  <img src = './images/cpp.svg' width='30'/>  <img src = './images/html.svg' width='30'/>  <img src = './images/css.svg' width='30'/>  <img src = './images/js.svg' width='30'/>  <img src = './images/java.svg' width='30'/>
- 
- ## Tools
- <img src = './images/django.svg' height='40'/> <img src = './images/flask.png' width='30'/>  <img src = './images/sql.svg' width='30'/>  <img src = './images/git.svg' width='30'/>  <img src = './images/linux2.svg' width='30'/>  <img src = './images/ethereum.svg' width='30'/>
- -->
+---
 
-<!--  
- ## Who am I?
- ```python
-class WhoAmI:
-	 user = 'sanjiv kannaa jeganathan'
-	education = "NIT trichy"
-	hobbies = [
-				'cycling',
-				'coding',
-				'problem solving',
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return 'Trichy, TN, India'
- ``` -->
- 
- 
-  ## Who am I?
- ```bash
- $ sudo su jsk
- Password: 
- 
- $ whoami
- Name :- 'Sanjiv Kannaa J'
+## 🚀 Welcome to My Digital Playground
 
-Age :- 19
+🎓 **B.Tech Computer Science and Engineering** @ NIT Trichy (2025)  
+🔧 DevOps | Backend Engineering | Distributed Systems  
+💥 I love breaking systems and learning how to make them resilient.  
+📍 Pune, India
 
-City :- 'Trichy'
+---
 
-Education :- 'B.Tech CSE @ NIT Trichy'
+## 🛠️ Projects I’m Proud Of
 
-Languages :- ['Python', 'C', 'C++', 'HTML', 'CSS', 'JS']
+- 😵‍💫 [**ChaosBank**](https://github.com/SanjivKannaa/ChaosBank): A chaos-testing sandbox for banking apps — Terraform-based infra on AWS, Ansible-driven MySQL cluster, load-balanced Flask APIs.
+- 🧪 [**NoCaine - DarkWeb Crawler**](https://github.com/SanjivKannaa/NoCaine): DarkWeb Crawler built using GoLang that crawls the TOR network and finds sites with illegal content.
+- 🏋🏽 [**Blue-Green Deployment**](https://github.com/SanjivKannaa/bgdeployment): BlueGreen Deployment of ChaosBank.
 
-Tools_and_frameworks :- ['linux', 'git', 'flask', 'django', 'node', 'mySQL', 'mongoDB', 'docker', 'apache', 'nginx']
+---
 
-hobbies = [ 'cycling', 'coding', 'problem solving', 'Being up all Night chasing that ONE BUG...']
-			
+## 💻 Skills
+
+**Languages:**  
+`Python` `Go` `Bash` `JavaScript`
+
+**Infra & Tools:**  
+`Linux/Unix` `Docker` `Kubernetes` `GitHub Actions` `Jenkins` `Ansible` `Terraform` `AWS EC2/VPC/S3`
+
+**Databases:**  
+`MySQL` `MongoDB` `Redis`
+
+**Web Frameworks:**  
+`Flask` `FastAPI` `Express.js` `React.js`
+
+---
+
+## 🔍 Who am I?
+```bash
+$ sudo su jsk
+Password: 
+
+$ whoami
+Name      : Sanjiv Kannaa Jeganathan
+Age       : 21
+City      : Pune, MH, India
+Education : B.Tech CSE @ NIT Trichy
+
+Languages : Python, GoLang, Bash, JavaScript
+Infra     : Docker, K8s, GitHub Actions, Jenkins, Ansible, Terraform
+Web       : Flask, FastAPI, React, Express
+
+Hobbies = (
+    "Cycling 🚴",
+    "Fixing that ONE BUG at 3AM",
+    "Breaking systems 💥",
+)
 $
-```
-
-
-## Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjiv_kannaa_jeganathan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjivkannaa/)  
- 
-## Currently learning
- 	1.AWS
-    
-
-<!-- 
-
- 
-![](https://github-readme-stats.vercel.app/api?username=SanjivKannaa&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjivKannaa&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
- -------
- -->
