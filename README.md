@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&width=600&height=100&lines=Hey+there+👋;I'm+Sanjiv+Kannaa+Jeganathan;DevOps+%7C+Backend+%7C+Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&width=600&height=100&lines=Hey+there+👋;I'm+sanjiv+kannaa+jeganathan;DevOps+%7C+Backend+%7C+Distributed+Systems+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
