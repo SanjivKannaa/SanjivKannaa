@@ -7,7 +7,7 @@
 
 🎓 **B.Tech Computer Science and Engineering** @ NIT Trichy (2025)  
 🔧 Databases | DevOps | Distributed Systems | Backend Engineering
-💥 I love breaking systems and learning how to make them resilient.  
+💥 I love breaking systems and learning how to make them resilient
 📍 Gurugram, India
 
 ---
@@ -54,7 +54,7 @@ Web         : Flask, FastAPI, React, Express
 
 Hobbies = (
     "Cycling 🚴",
-    `Gaming`.
+    "Gaming".
     "Breaking systems 💥",
 )
 $
