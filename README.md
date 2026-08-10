@@ -5,7 +5,7 @@
 
 ## 🚀 Welcome to My Digital Playground
 
-🛡️ **DataBase Administrator @ Razorpay**
+🛡️ **DataBase Administrator @ Razorpay**  
 🎓 **B.Tech Computer Science and Engineering** @ NIT Trichy (2025)  
 🔧 Databases | Infrastructure | Distributed Systems | Reliability  
 💥 Breaking systems to understand them. Building them to survive  
