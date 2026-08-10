@@ -6,18 +6,18 @@
 ## 🚀 Welcome to My Digital Playground
 
 🎓 **B.Tech Computer Science and Engineering** @ NIT Trichy (2025)  
-🔧 Databases | DevOps | Distributed Systems | Backend Engineering
-💥 I love breaking systems and learning how to make them resilient
+🔧 Databases | Infrastructure | Distributed Systems | Reliability
+💥 Breaking systems to understand them. Building them to survive.
 📍 Gurugram, India
 
 ---
 
 ## 🛠️ Projects I’m Proud Of
 
-- 😵‍💫 [**ChaosBank**](https://github.com/SanjivKannaa/ChaosBank): A chaos-testing sandbox for banking apps — Terraform-based infra on AWS, Ansible-driven MySQL cluster, load-balanced Flask APIs.
-- 🧪 [**NoCaine - DarkWeb Crawler**](https://github.com/SanjivKannaa/NoCaine): DarkWeb Crawler built using GoLang that crawls the TOR network and finds sites with illegal content.
-- 🏋🏽 [**Blue-Green Deployment**](https://github.com/SanjivKannaa/bgdeployment): BlueGreen Deployment of ChaosBank.
-
+## 🛠️ Projects I’m Proud Of
+- 🧙 [**Hobbit**]@RAZORPAY: An agentic on-call assistant for datastores — designed to help diagnose database incidents, investigate alerts, and automate operational workflows.
+- 😵‍💫 [**ChaosBank**](https://github.com/SanjivKannaa/ChaosBank): A chaos-testing sandbox for banking applications — Terraform-based AWS infrastructure, Ansible-driven MySQL cluster, and load-balanced Flask APIs.
+- 🧪 [**NoCaine - DarkWeb Crawler**](https://github.com/SanjivKannaa/NoCaine): A Go-based crawler for exploring the Tor network and discovering `.onion` services.
 ---
 
 ## 💻 Skills
@@ -28,7 +28,7 @@
 **Infra & Tools:**  
 `Linux/Unix` `Docker` `Kubernetes` `GitHub Actions` `Ansible` `Terraform` `AWS` 
 
-**Databases:**  
+**Datastores:**  
 `MySQL` `PostgreSQL` `Redis` `MSK` `Kafka`
 
 **Web Frameworks:**  
@@ -42,11 +42,12 @@ $ sudo su jsk
 Password: 
 
 $ whoami
-Name        : Sanjiv Kannaa Jeganathan
-Age         : 21
-City        : Gurugram, Haryana, India
-Education   : B.Tech CSE @ NIT Trichy
-Stabilizing : Razorpay
+Name            : Sanjiv Kannaa Jeganathan
+Uptime          : now() - 2003-09-19
+City            : Gurugram, Haryana, India
+Education       : B.Tech CSE @ NIT Trichy
+Current Mission : Stabilize & Safeguard Razorpay's Datastores
+Interests       : Databases, Infrastructure, Distributed Systems
 
 Languages   : Python, GoLang, Bash, JavaScript
 Infra       : Linux, Docker, K8s, GitHub Actions, Ansible, Terraform, AWS
@@ -54,7 +55,9 @@ Web         : Flask, FastAPI, React, Express
 
 Hobbies = (
     "Cycling 🚴",
-    "Gaming".
+    "Gaming 🎮".
+    "Road trips 🛣️",
     "Breaking systems 💥",
+    "Fixing what I broke 🫠",
 )
 $
