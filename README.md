@@ -6,9 +6,9 @@
 ## 🚀 Welcome to My Digital Playground
 
 🎓 **B.Tech Computer Science and Engineering** @ NIT Trichy (2025)  
-🔧 DevOps | Backend Engineering | Distributed Systems  
+🔧 Databases | DevOps | Distributed Systems | Backend Engineering
 💥 I love breaking systems and learning how to make them resilient.  
-📍 Pune, India
+📍 Gurugram, India
 
 ---
 
@@ -23,13 +23,13 @@
 ## 💻 Skills
 
 **Languages:**  
-`Python` `Go` `Bash` `JavaScript`
+`Python` `Bash` `JavaScript`
 
 **Infra & Tools:**  
-`Linux/Unix` `Docker` `Kubernetes` `GitHub Actions` `Jenkins` `Ansible` `Terraform` `AWS EC2/VPC/S3`
+`Linux/Unix` `Docker` `Kubernetes` `GitHub Actions` `Ansible` `Terraform` `AWS` 
 
 **Databases:**  
-`MySQL` `MongoDB` `Redis`
+`MySQL` `PostgreSQL` `Redis` `MSK` `Kafka`
 
 **Web Frameworks:**  
 `Flask` `FastAPI` `Express.js` `React.js`
@@ -42,18 +42,19 @@ $ sudo su jsk
 Password: 
 
 $ whoami
-Name      : Sanjiv Kannaa Jeganathan
-Age       : 21
-City      : Pune, MH, India
-Education : B.Tech CSE @ NIT Trichy
+Name        : Sanjiv Kannaa Jeganathan
+Age         : 21
+City        : Gurugram, Haryana, India
+Education   : B.Tech CSE @ NIT Trichy
+Stabilizing : Razorpay
 
-Languages : Python, GoLang, Bash, JavaScript
-Infra     : Docker, K8s, GitHub Actions, Jenkins, Ansible, Terraform
-Web       : Flask, FastAPI, React, Express
+Languages   : Python, GoLang, Bash, JavaScript
+Infra       : Linux, Docker, K8s, GitHub Actions, Ansible, Terraform, AWS
+Web         : Flask, FastAPI, React, Express
 
 Hobbies = (
     "Cycling 🚴",
-    "Fixing that ONE BUG at 3AM",
+    `Gaming`.
     "Breaking systems 💥",
 )
 $
